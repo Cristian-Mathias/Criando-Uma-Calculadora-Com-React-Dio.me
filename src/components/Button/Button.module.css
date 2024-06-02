@@ -1,0 +1,16 @@
+.button {
+    width: 30px;
+    height: 30px;
+    margin: 5px;
+    background-color: rgba(127, 255, 212, 0.478);
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: rgba(0, 0, 0, 0.472);
+    border: none;
+}
+.button:hover{
+    background-color: rgba(62, 183, 143, 0.478);
+    color: rgba(0, 0, 0, 0.998);
+}
